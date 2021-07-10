@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Bottle-1",
+    "description": "Bottle 1 is used for this",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "title": "Botlle-2",
+    "description": "Bottle 2 is used for this",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "title": "Bottle-3",
+    "description": "Bottle 4 is used for this",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "title": "Bottle-4",
+    "description": "Bottle 4 is used for this",
+    "price": 100
+  }
+]
